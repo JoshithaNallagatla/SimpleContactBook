@@ -1,0 +1,6 @@
+CONTACT BOOK REPORT
+===================
+Total contacts: 2
+Personal: 1
+Work: 1
+Unique phones: 2

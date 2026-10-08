@@ -1,0 +1,2 @@
+1|Personal|Ananya Rao|9876543212|ananya@example.com|Friend
+2|Work|Ravi Shah|9876543211||ABC Labs
