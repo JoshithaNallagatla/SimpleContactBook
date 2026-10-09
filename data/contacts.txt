@@ -1,2 +1,8 @@
 1|Personal|Ananya Rao|9876543212|ananya@example.com|Friend
 2|Work|Ravi Shah|9876543211||ABC Labs
+3|Personal|Harshitha|9845686789||Friend
+4|Work|Sravya|8796543245||TCS
+5|Personal|Sravya|7645367834||Relative
+6|Work|Arjun|7665476547||TCS
+7|Personal|kavya|6546784567||Family
+8|Work|Ramesh|6543786793||Google
